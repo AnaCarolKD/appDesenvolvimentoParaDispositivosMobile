@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "772414081644",
+    "project_id": "meuprimeioapp",
+    "storage_bucket": "meuprimeioapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772414081644:android:c06c14f6e06a99eb5b6649",
+        "android_client_info": {
+          "package_name": "com.example.meuprimeiroapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772414081644-7nqg4dcsl12c12dqecifoo06l0kk1jgg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLhTjUCPsBFFzXqryCoodI8kEaYjAOTi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772414081644-7nqg4dcsl12c12dqecifoo06l0kk1jgg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
